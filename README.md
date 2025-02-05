@@ -1,2 +1,2 @@
 # Lecture
-update file
+remove trash
