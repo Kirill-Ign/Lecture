@@ -1,3 +1,3 @@
 # Lecture
 new branch
-rebase now
+rebase now or not
